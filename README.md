@@ -1,1 +1,1 @@
-# SSR Starter
+# React SSR Starter
