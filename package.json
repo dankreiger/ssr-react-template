@@ -9,7 +9,7 @@
     "express": "4.17.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "web-vitals": "1.1.0"
+    "web-vitals": "1.1.1"
   },
   "scripts": {
     "dev": "npm-run-all --parallel dev:*",
